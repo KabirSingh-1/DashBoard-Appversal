@@ -94,11 +94,11 @@ Make sure you have Node.js and a package manager (npm or yarn) installed on your
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/react-redux-dashboard.git
+    git clone https://github.com/KabirSingh-1/DashBoard-Appversal
     ```
 2.  **Navigate to the project directory:**
     ```sh
-    cd react-redux-dashboard
+    cd DashBoard-Appversal
     ```
 3.  **Install dependencies:**
     This project uses CDN-based imports defined in an `importmap` in `index.html`, so no `npm install` is required for the core libraries. For a typical local setup, you would run:
