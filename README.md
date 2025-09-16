@@ -6,7 +6,7 @@ This project is a comprehensive analytics dashboard for tracking Apple Search Ad
 
 A live demo of the application is available at the following URL:
 
-[**Live Demo URL**](https://your-live-demo-url-here.com)
+[**Live Demo URL**](https://dashboard-appversal.netlify.app/)
 
 ## Figma Design Reference
 
