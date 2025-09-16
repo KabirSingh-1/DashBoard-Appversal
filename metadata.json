@@ -1,0 +1,5 @@
+{
+  "name": "React Redux Analytics Dashboard",
+  "description": "A comprehensive analytics dashboard for Apple Search Ads performance tracking, built with React, Redux, Tailwind CSS, and Recharts, based on a Figma design.",
+  "requestFramePermissions": []
+}
